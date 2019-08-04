@@ -1,1 +1,3 @@
-printf("tests")
+print("tests")
+
+print("hello git")
